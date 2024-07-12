@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurogonzalez51&label=Profile%20views&color=0e75b6&style=flat" alt="maurogonzalez51" /> </p>
 
-- 🌱 I’m currently learning **NextJS** and **Rust**
+- 🌱 I’m currently learning **NextJS**, **NuxtJS**, and **Rust**
 
 - 📫 How to reach me **mauroalonso.g.f2004@gmail.com**
 
