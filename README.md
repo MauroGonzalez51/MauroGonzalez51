@@ -21,11 +21,26 @@
 <div align="center"> 
     <a href="mailto:mauroalonso.g.f2004@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
+    </a>  
     <a href="www.linkedin.com/in/mauro-gonzalez-figueroa" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>  
     <a href="https://www.instagram.com/mauro_gonzalez1307/">
-        <img src="https://img.shields.io/badge/Instagram-DAB4AD?style=for-the-badge&logo=instagram" target="_blank" />  
+        <img src="https://img.shields.io/badge/Instagram-DAB4AD?style=for-the-badge&logo=instagram" />  
     </a>
 </div>
+
+<hr />
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?=arch,vscode,neovim,github,tailwind,git,postman,postgres,sqlite,prisma" />
+    <img src="html,css,javascript,ts,nuxtjs,nextjs,react,vue,nodejs,graphql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,rocket,python,fastapi,django,latex,lua" /><br>
+</div>
+
+
+
