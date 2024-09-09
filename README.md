@@ -70,6 +70,17 @@
 
 <hr/>
 
+<div align="center">
+    
+| 🎵 Now Playing                                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0o7snyihbjd9yq3xm77k5bxgo&cover_image=true&theme=natemoo-re&show_offline=true&background_color=080808&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=0o7snyihbjd9yq3xm77k5bxgo&redirect=true) | 
+    
+</div>
+
+<hr/>
+
+
 <br/>
 
 
