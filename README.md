@@ -7,3 +7,13 @@
 </h1>
 
 <h3 align="center">A college student from Colombia co</h3>
+
+<br />
+
+<div align="center">
+    
+ 🌱 I’m currently learning **Nuxt3, NextJS, Rust**
+    
+💬 You can ask me about anything [here](https://github.com/MauroGonzalez51/MauroGonzalez51/issues)
+
+</div>
