@@ -19,10 +19,13 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:mauroalonso.g.f2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/mauro-gonzalez-figueroa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+    <a href="mailto:mauroalonso.g.f2004@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="www.linkedin.com/in/mauro-gonzalez-figueroa" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.instagram.com/mauro_gonzalez1307/">
+        <img src="https://img.shields.io/badge/Instagram-DAB4AD?style=for-the-badge&logo=instagram" target="_blank" />  
+    </a>
 </div>
