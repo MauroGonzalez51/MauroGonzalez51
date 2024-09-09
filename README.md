@@ -37,8 +37,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?=arch,vscode,neovim,github,tailwind,git,postman,postgres,sqlite,prisma" />
-    <img src="html,css,javascript,ts,nuxtjs,nextjs,react,vue,nodejs,graphql" />
+    <img src="https://skillicons.dev/icons?i=arch,vscode,neovim,github,tailwind,git,postman,postgres,sqlite,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nuxtjs,nextjs,react,vue,nodejs,graphql" />
     <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,rocket,python,fastapi,django,latex,lua" /><br>
 </div>
 
