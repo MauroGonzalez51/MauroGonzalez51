@@ -10,7 +10,7 @@
 
 <div align="center">
     
- 🌱 I’m currently learning **Nuxt3, NextJS, Rust**
+ 🌱 I’m currently learning **Nuxt3, SvelteKit, Rust**
     
 💬 You can ask me about anything [here](https://github.com/MauroGonzalez51/MauroGonzalez51/issues)
 
